@@ -1,0 +1,58 @@
+.wrapper {
+	height: 770px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+form {
+	width: 23vw;
+	display: flex;
+	flex-direction: column;
+	padding: 1% 2% 2% 2%;
+	background-color: #2c394f;
+	border-radius: 10px;
+	color: #ffffff;
+}
+
+input {
+	border: 1px solid #3b4e6b;
+	padding: 12px;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-o-border-radius: 10px;
+}
+
+.register {
+	text-align: start;
+	font-size: 25px;
+	margin: 0;
+}
+
+.logo {
+	height: 40px;
+	display: flex;
+	margin-bottom: 18px;
+}
+
+.labelName {
+	padding-left: 7px;
+	text-align: center;
+	font-size: 25px;
+	margin: 0 0 15px 0;
+	font-weight: 500;
+	color: #ffffff;
+}
+
+p {
+	text-align: start;
+	font-weight: 500;
+	margin: 20px 0px 2px 0px;
+}
+
+button {
+	margin-top: 10%;
+}
